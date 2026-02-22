@@ -1,3 +1,5 @@
+ feature/oshadi/init-project
+console.log("Hello SE3040 LAB04");
 const condition = true;
 
 const myPromise = new Promise((resolve, reject) => {
@@ -14,4 +16,4 @@ myPromise
   })
   .catch((error) => {
     console.log(error);
-  });
+  }); main

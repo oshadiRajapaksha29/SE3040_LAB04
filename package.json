@@ -1,0 +1,20 @@
+{
+  "name": "se3040_lab04",
+  "version": "1.0.0",
+  "description": "SE3040 LAB04 NodeJS practice",
+  "homepage": "https://github.com/oshadiRajapaksha29/SE3040_LAB04#readme",
+  "bugs": {
+    "url": "https://github.com/oshadiRajapaksha29/SE3040_LAB04/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/oshadiRajapaksha29/SE3040_LAB04.git"
+  },
+  "license": "ISC",
+  "author": "oshadi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
